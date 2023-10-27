@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @harish084
 - 👀 I’m interested in python 
-- 🌱 I’m currently python basics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

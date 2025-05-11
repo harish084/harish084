@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harish084
-- 👀 I’m interested in python 
+- 👀 I’m interested in java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
